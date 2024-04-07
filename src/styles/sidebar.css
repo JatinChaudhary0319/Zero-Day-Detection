@@ -1,0 +1,179 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+  @apply flex flex-col bg-[rgb(192,192,192)] max-w-[241px] min-h-[100vh];
+}
+
+.header1 {
+  border-bottom: 0.5px;
+  border-bottom-color: rgba(255, 255, 255, 1);
+  @apply flex justify-between items-center px-3.5 py-5 border-solid;
+}
+
+.header2 {
+  @apply flex gap-2.5 text-xl font-bold text-white;
+}
+
+.logo {
+  @apply aspect-square w-8;
+}
+
+.heading {
+  @apply flex-auto;
+}
+
+.left_arrow_img {
+  @apply w-full h-5;
+}
+
+.left_arrow_btn {
+  @apply flex justify-center items-center self-start px-1 rounded aspect-square h-[26px] w-[26px];
+}
+
+.search {
+  @apply flex gap-5 justify-between self-center px-2.5 py-2 mt-3.5 text-sm text-white whitespace-nowrap;
+}
+
+.search_input {
+  @apply border border-solid border-[#808080] rounded-md bg-[#808080] p-2;
+}
+
+.search_input::placeholder {
+  color: white; /* change color to red */
+  font-size: 16px; /* change font size to 18px */
+  font-style: italic; /* change font style to italic */
+}
+
+.about {
+  @apply flex flex-col pl-3 mt-5 w-full text-xs font-medium leading-6 whitespace-nowrap text-[rgb(203,213,225)];
+}
+
+.about_btn {
+  @apply flex pr-20 pl-2.5 font-semibold;
+}
+
+.about_img {
+  @apply aspect-square w-[18px] h-5 mt-2;
+}
+
+.about_div {
+  @apply grow text-black justify-center py-1.5;
+}
+
+.how {
+  @apply flex flex-col pl-5 w-full text-xs font-medium text-slate-300;
+}
+
+.how2 {
+  @apply flex gap-2.5 py-1.5 pr-1.5 mt-2 font-semibold whitespace-nowrap;
+}
+
+.how_img {
+  @apply w-5 h-5 mt-1 aspect-square;
+}
+
+.how_div {
+  @apply grow justify-center self-start py-1.5;
+}
+
+.upArrow {
+  @apply w-6 aspect-square;
+}
+
+.downArrow {
+  @apply w-3 h-2 mr-1.5 aspect-square;
+}
+
+.custm_btn {
+  @apply flex gap-1.5 pr-20 pl-10 mt-1.5 whitespace-nowrap;
+}
+
+.custm_div {
+  @apply px-px py-1.5 my-auto;
+}
+
+.blog {
+  @apply w-4 h-4 my-1 ml-1 aspect-square;
+}
+
+.insight {
+  @apply flex flex-col pb-1.5 mt-2 w-full text-xs font-medium leading-6 whitespace-nowrap text-slate-300;
+}
+
+.insight_img {
+  @apply aspect-square w-[18px] h-5 mt-2;
+}
+
+.insight_div {
+  @apply pl-3 py-1.5;
+}
+
+.custm_btn2 {
+  @apply flex pr-20 font-semibold;
+}
+
+.crm {
+  @apply flex gap-2.5 py-1.5 pr-1.5 font-semibold whitespace-nowrap;
+}
+
+.cstm_img2 {
+  @apply w-6 h-6 aspect-square;
+}
+
+.custm_div2 {
+  @apply grow justify-center self-start py-1.5;
+}
+
+.company {
+  @apply px-px py-1.5 mb-3 my-auto;
+}
+
+.cstm_div3 {
+  @apply flex flex-col pb-1.5 w-full text-xs mt-2 font-medium leading-6 whitespace-nowrap text-slate-300;
+}
+
+.cstm_img3 {
+  @apply aspect-square w-6 h-6 mt-2;
+}
+
+.cstm_div4 {
+  @apply pl-2 py-1 mt-1;
+}
+
+.cstm_div5 {
+  @apply flex gap-2.5 py-1.5 pr-1.5 mt-2 font-semibold whitespace-nowrap;
+}
+
+.cstm_img4 {
+  @apply w-5 mt-1 aspect-square;
+}
+
+.setting {
+  @apply flex gap-2.5 py-1.5 mt-2 pr-1.5 font-semibold whitespace-nowrap;
+}
+
+.hr {
+  @apply bg-white bg-opacity-20 max-w-[241px] min-h-[3px] mt-6 mb-6;
+}
+
+.coming_2 {
+  @apply px-px py-1.5 text-sm my-auto text-slate-300 ml-6;
+}
+
+.coming3 {
+  @apply flex flex-col px-5 py-1.5 text-xs font-medium tracking-normal leading-6 text-gray-500 max-w-[244px];
+}
+
+.coming_div {
+  @apply flex gap-2 justify-between mt-5 items-center;
+}
+
+.coming_img {
+  @apply self-start w-6 aspect-square object-contain items-center;
+}
+
+.coming_div2 {
+  @apply flex-auto text-black text-base;
+}
