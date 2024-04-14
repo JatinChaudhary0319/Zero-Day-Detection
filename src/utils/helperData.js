@@ -25,3 +25,23 @@ export const labelStyle = {
     height: "56px",
     width: '400px'
   };
+
+  const validateEmail = (email) => {
+    const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+  
+    return emailPattern.test(email);
+  }
+  
+  const validatePhoneNumber = (phoneNumber) => {
+    const cleanedNumber = phoneNumber.toString();
+  
+    const regex = /^(\+?\d{1,3})?(\d{6,15})$/;
+  
+    if (cleanedNumber.match(regex)) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+export { validateEmail, validatePhoneNumber };
