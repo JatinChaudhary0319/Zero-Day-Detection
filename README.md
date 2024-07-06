@@ -1,8 +1,8 @@
 <h1 align="center">Zero Day Detection</h1> 
 
 ## About Project:
-A react based frontend application providing routing using react router dom and a dashboard interface upon successful login. 
-Integrated react toast messages for better user interaction.
+A react based frontend application providing routing using react router dom and a dashboard interface upon successful login. <br />
+Integrated react toast messages for better user interaction. <br />
 Used MUI components are being used for responsive behavious.
 
 ## Installation
