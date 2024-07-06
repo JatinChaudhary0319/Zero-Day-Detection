@@ -7,8 +7,8 @@ Used MUI components are being used for responsive behavious.
 
 ## Installation
 1. Download project from github.
-2. Start backend at separate terminal using "npm start".
-3. Start project using "npm run dev".
+2. Start backend at separate terminal using "node app.js".
+3. Start project using "npm start".
 
 # If you like my project hit the star 🌟 button
 
@@ -20,6 +20,12 @@ Used MUI components are being used for responsive behavious.
 
 ## Signup
 ![screencapture-localhost-3000-sign-up-2024-07-06-17_19_41](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/c70bcb75-963f-4a2e-a72d-d24c668f89a6)
+<div align="right">
+<b><a href="#">↥ back to top</a></b>
+</div>
+
+## Toast Messages
+![toast](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/62fa5778-5002-4bd4-8ba9-42132c91b1ca)
 <div align="right">
 <b><a href="#">↥ back to top</a></b>
 </div>
