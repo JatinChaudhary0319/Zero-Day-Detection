@@ -1,5 +1,31 @@
 <h1 align="center">Zero Day Detection</h1> 
 
+- ### Tech Stack used:
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://clipartcraft.com/images/html5-logo-html-5.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3.png">
+					</td>
+          <td width="25%" align="center">
+						<span><strong>JavaScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://openclipart.org/image/800px/272343">
+					</td>
+          <td width="25%" align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fthumbs%2F584830f5cef1014c0b5e4aa1.png&f=1&nofb=1&ipt=dc5520644576d1d6d7ebd6177d55cb74f1bc3f08c85d690957c5876941cf4001&ipo=images">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+ 
 ## About Project:
 A react based frontend application providing routing using react router dom and a dashboard interface upon successful login. <br />
 Integrated react toast messages for better user interaction. <br />
