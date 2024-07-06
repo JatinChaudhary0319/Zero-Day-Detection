@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+<h1 align="center">Zero Day Detection</h1> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Project:
+A react based frontend application providing routing using react router dom and a dashboard interface upon successful login. 
+Integrated react toast messages for better user interaction.
+Used MUI components are being used for responsive behavious.
 
-## Available Scripts
+## Installation
+1. Download project from github.
+2. Start backend at separate terminal using "npm start".
+3. Start project using "npm run dev".
 
-In the project directory, you can run:
+# If you like my project hit the star 🌟 button
 
-### `npm start`
+## Login
+![screencapture-localhost-3000-2024-07-06-17_17_35](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/14a79e3f-a342-4797-b593-cf8b9454cc50)
+<div align="right">
+<b><a href="#">↥ back to top</a></b>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Signup
+![screencapture-localhost-3000-sign-up-2024-07-06-17_19_41](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/c70bcb75-963f-4a2e-a72d-d24c668f89a6)
+<div align="right">
+<b><a href="#">↥ back to top</a></b>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Dashboard
+![screencapture-localhost-3000-home-2024-07-06-17_21_21](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/1a7fe209-6dcd-461a-95a1-e77875c88959)
+<div align="right">
+<b><a href="#">↥ back to top</a></b>
+</div>
 
-### `npm test`
+## Logout support
+![screencapture-localhost-3000-home-2024-07-06-17_22_09](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/84c62ef7-e63e-404e-a008-773c5ffde49e)
+<div align="right">
+<b><a href="#">↥ back to top</a></b>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact Modal
+![screencapture-localhost-3000-home-2024-07-06-17_25_48](https://github.com/JatinChaudhary0319/Zero-Day-Detection/assets/137517499/b8f31a57-1c59-4e3c-b528-f91a054718b3)
+<div align="right">
+<b><a href="#">↥ back to top</a></b>
+</div>
