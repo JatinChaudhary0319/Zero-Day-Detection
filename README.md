@@ -32,9 +32,14 @@ Integrated react toast messages for better user interaction. <br />
 Used MUI components are being used for responsive behavious.
 
 ## Installation
-1. Download project from github.
-2. Start backend at separate terminal using "node app.js".
-3. Start project using "npm start".
+1. Download backend project from <a href="https://github.com/JatinChaudhary0319/ZDD_Backend" target="_blank" rel="noopener noreferrer">here</a>.
+2. Extract zip file yo your desired location.
+3. Open terminal and install all dependencies using "npm i".
+4. Start backend at separate terminal using "node app.js".
+5. Download frontend project from this repository.
+6. Extract zip file yo your desired location.
+7. Open terminal and install all dependencies using "npm i".
+8. Start project using "npm start".
 
 # If you like my project hit the star 🌟 button
 
